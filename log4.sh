@@ -1,10 +1,10 @@
 #!/bin/bash
-Script: log4.sh
-Autor: Arturo Mata <arturo.mata@gmail.com>
-Version: 1.0.0
-Repositorio: https://github.com/matarturo/
-Released under the GNU General Public License WITHOUT ANY WARRANTY.
-See LICENSE.TXT for details.
+# Script: log4.sh
+# Autor: Arturo Mata <arturo.mata@gmail.com>
+# Version: 1.0.0
+# Repositorio: https://github.com/matarturo/
+# Released under the GNU General Public License WITHOUT ANY WARRANTY.
+# See LICENSE.TXT for details.
 
 # Script para detectar vulnerabilidad log4js en servidores linux
 
