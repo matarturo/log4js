@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script: log4.sh
+# Script: log4j.sh
 # Autor: Arturo Mata <arturo.mata@gmail.com>
 # Version: 1.0.0
 # Repositorio: https://github.com/matarturo/
